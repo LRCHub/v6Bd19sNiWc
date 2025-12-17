@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "日の東、月の西",
+  "base_artist": "PompadollS",
+  "createdAt": "2025-12-17T13:07:03.295227Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "日の東、月の西",
+      "artist": "PompadollS",
+      "has_synced": false,
+      "path": "select/pl_01_日の東、月の西_PompadollS.txt"
+    }
+  ]
+}
